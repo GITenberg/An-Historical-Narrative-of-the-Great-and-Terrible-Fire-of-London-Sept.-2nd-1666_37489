@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '38871'
     url: http://www.gutenberg.org/2009/agents/38871
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37489#An-Historical-Narrative-of-the-Great-and-Terrible-Fire-of-London-Sept.-2nd-1666
 gutenberg_issued: '2011-09-20'
 gutenberg_type: Text
 identifiers:
